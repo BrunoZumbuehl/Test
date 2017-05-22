@@ -14,6 +14,7 @@ namespace xamTest
             InitializeComponent();
 
             MainPage = new xamTest.MainPage();
+            //
         }
 
         protected override void OnStart()
